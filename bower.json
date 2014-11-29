@@ -30,10 +30,10 @@
   "main": "twilio-client.html",
   "dependencies": {
     "polymer": "Polymer/polymer",
-    "es6-promise-polyfill": "~1.0.0",
-    "lodash": "~2.4.1",
-    "cachable-ajax": "~0.3.1",
-    "twilioclient-fixed": "~1.2.4",
+    "es6-promise-polyfill": null,
+    "lodash": null,
+    "cachable-ajax": null,
+    "twilioclient-fixed": null,
     "paper-button": "Polymer/paper-button",
     "core-drawer-panel": "Polymer/core-drawer-panel",
     "core-header-panel": "Polymer/core-header-panel",
@@ -49,29 +49,4 @@
   "devDependencies": {
     "polymer-test-tools": "Polymer/polymer-test-tools"
   },
-  "resolutions": {
-    "core-component-page": "^0.4.0",
-    "polymer": "^0.4.2",
-    "core-icon": "^0.4.0",
-    "core-iconset": "^0.4.0",
-    "core-meta": "^0.4.0",
-    "core-icons": "^0.4.0",
-    "core-iconset-svg": "^0.4.0",
-    "paper-ripple": "^0.4.0",
-    "font-roboto": "^0.4.0",
-    "paper-shadow": "^0.4.0",
-    "core-selector": "^0.4.0",
-    "core-selection": "^0.4.0",
-    "core-media-query": "^0.4.0",
-    "core-icon-button": "^0.4.0",
-    "core-drawer-panel": "~0.4.2",
-    "core-header-panel": "~0.4.2",
-    "core-toolbar": "~0.4.2",
-    "core-collapse": "^0.4.0",
-    "core-item": "^0.4.0",
-    "core-style": "^0.4.0",
-    "core-transition": "^0.4.0",
-    "core-input": "^0.4.0",
-    "core-field": "^0.4.0"
-  }
 }
